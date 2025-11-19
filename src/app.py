@@ -75,6 +75,13 @@ activities = {
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
     }
+        ,
+        "GitHub Skills": {
+            "description": "Aprende habilidades prácticas de programación y colaboración usando GitHub. Primer módulo del programa de certificaciones GitHub.",
+            "schedule": "Lunes y miércoles, 3:30 PM - 4:30 PM",
+            "max_participants": 25,
+            "participants": []
+        }
 }
 
 
